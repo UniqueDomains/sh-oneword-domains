@@ -115,6 +115,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0b370401-ab67-41de-bcb3-fa32266cf858,highseas.sh,available,59.99,,74,6,9,name.com,,
 0b545324-e362-401b-a217-10984f0e9608,investors.sh,available,59.99,,60,23,9,name.com,,
 0b74c1d4-941c-45bf-9f99-02d0eb11518c,wellmanaged.sh,available,59.99,,60,4,12,name.com,,
+0b895c50-8fda-4ebc-bc72-5bac451c2f45,lottery.sh,resell,,,70,29,7,Porkbun LLC,27/02/2025 15:55,27/02/2027 15:55
 0b9aa95e-4bf7-4535-a915-d8170a1c4966,favors.sh,available,59.99,,76,8,6,name.com,,
 0ba0bace-07d2-4617-990a-6f6e97282158,swords.sh,available,59.99,,52,10,6,name.com,,
 0ba5fc91-fdf9-4741-890b-9d060bab6d64,belike.sh,available,59.99,,74,7,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c922a56-0501-49b1-be0b-ca7359d2f66d,overcomes.sh,available,39.99,47.99,62,2,9,namesilo,,
 5c94803f-c5f2-4259-aa4d-f36c2a0acd45,chairs.sh,available,59.99,,54,11,6,name.com,,
 5ca0d0af-2ffa-4b57-8012-1bc250d5eaa0,havenobusiness.sh,available,59.99,,60,1,16,name.com,,
-5cc16389-7895-4b2f-b301-23c97e82232d,feellike.sh,available,59.99,,74,3,9,name.com,,
