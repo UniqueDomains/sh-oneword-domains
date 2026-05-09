@@ -331,6 +331,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1f899c22-ac4d-44b2-89cb-288d01b61ea6,keepoff.sh,available,59.99,,70,2,8,name.com,,
 1f8ef4a0-c4b1-430a-a9b6-7e53ccae5948,childclass.sh,available,59.99,,50,1,11,name.com,,
 1fa837d3-f073-4b24-8b88-ee7173611cb6,tryon.sh,available,59.99,,77,13,6,name.com,,
+1faab967-aa69-4c9f-a252-9522fd716e1f,system.sh,resell,,,76,39,6,"Sav.com, LLC",29/08/2021 14:30,29/08/2026 14:30
 1fbb21d5-141f-439b-b7a7-b7466119a489,sentiments.sh,available,59.99,,56,6,10,name.com,,
 1fd3ea12-df0a-4838-9cfa-14e7c5d0d3cf,LoneRanger.sh,available,76.98,,70,4,11,namecheap,,
 202a1b2f-1c85-499a-a532-a697047b4820,backstretch.sh,available,59.99,,74,3,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c7c575c-5655-4c0f-8097-a18709978d36,pizzaslice.sh,available,39.99,47.99,56,4,11,namesilo,,
 5c922a56-0501-49b1-be0b-ca7359d2f66d,overcomes.sh,available,39.99,47.99,62,2,9,namesilo,,
 5c94803f-c5f2-4259-aa4d-f36c2a0acd45,chairs.sh,available,59.99,,54,11,6,name.com,,
-5ca0d0af-2ffa-4b57-8012-1bc250d5eaa0,havenobusiness.sh,available,59.99,,60,1,16,name.com,,
