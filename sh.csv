@@ -732,7 +732,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 441698de-6fa9-4453-9ed5-a47ad1eecd96,coulduse.sh,available,59.99,,56,1,9,name.com,,
 441768a5-a1a7-46ad-a049-cfa1ce87bd80,fasttank.sh,available,59.99,,50,0,9,name.com,,
 4433fc2d-7122-438a-8905-88cda5adb06b,preliminarily.sh,available,59.99,,41,1,13,name.com,,
-443c273c-8388-4d3f-a89b-2e48ac18c6e7,instal.sh,available,59.99,,76,7,6,name.com,,
+443c273c-8388-4d3f-a89b-2e48ac18c6e7,instal.sh,available,59.99,,76,6,6,name.com,,
 443dabd9-f83e-4bc0-9043-515165f75a6a,keepstraight.sh,available,59.99,,62,1,13,name.com,,
 445acb76-c2d5-4dda-b62e-d39380959c8e,stepinto.sh,available,59.99,,52,5,9,name.com,,
 446477da-0054-4b7b-8fb8-8e00ecfac0f6,surfacemail.sh,available,59.99,,67,1,12,name.com,,
