@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sh one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,433 domains · **Median ask:** $56.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/sh`  
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | commonground.sh | available | $59.99    | —             | 74             | 28     | 13     | name.com         |
 | lottery.sh      | resell    | —         | —             | 70             | 29     | 7      | Porkbun LLC      |
 | backyard.sh     | available | $59.99    | —             | 80             | 27     | 9      | name.com         |
-| infrared.sh     | resell    | —         | —             | 66             | 25     | 9      | GoDaddy.com, LLC |
+| infrared.sh     | resell    | —         | —             | 66             | 18     | 9      | GoDaddy.com, LLC |
 | doctors.sh      | available | $59.99    | —             | 56             | 26     | 7      | name.com         |
 | chem.sh         | available | $59.99    | —             | 74             | 24     | 4      | name.com         |
 | motorsport.sh   | available | $59.99    | —             | 74             | 23     | 10     | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SH One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SH One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
