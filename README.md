@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .sh one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,433 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,433 domains · **Median ask:** $56.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,433 domains · **Median ask:** $47.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/sh`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/sh`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SH one-word domain ca
 
 ### Files
 
-- `sh.csv` — public CSV extract (1,000 rows)
-- `sh.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `sh.csv`, public CSV extract (1,000 rows)
+- `sh.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| neuroscience.sh | available | $59.99    | —             | 80             | 37     | 12     | name.com         |
-| image.sh        | resell    | —         | —             | 82             | 44     | 5      | Dynadot Inc      |
-| tickets.sh      | available | $39.99    | $47.99        | 64             | 34     | 7      | namesilo         |
-| system.sh       | resell    | —         | —             | 76             | 39     | 6      | Sav.com, LLC     |
-| heroes.sh       | available | $59.99    | —             | 68             | 29     | 6      | name.com         |
-| ted.sh          | resell    | —         | —             | 72             | 32     | 3      | humbly, LLC      |
-| commonground.sh | available | $59.99    | —             | 74             | 28     | 13     | name.com         |
-| lottery.sh      | resell    | —         | —             | 70             | 29     | 7      | Porkbun LLC      |
-| backyard.sh     | available | $59.99    | —             | 80             | 27     | 9      | name.com         |
-| infrared.sh     | resell    | —         | —             | 66             | 18     | 9      | GoDaddy.com, LLC |
-| doctors.sh      | available | $59.99    | —             | 56             | 26     | 7      | name.com         |
-| chem.sh         | available | $59.99    | —             | 74             | 24     | 4      | name.com         |
-| motorsport.sh   | available | $59.99    | —             | 74             | 23     | 10     | name.com         |
-| investors.sh    | available | $59.99    | —             | 60             | 23     | 9      | name.com         |
-| CapeCod.sh      | available | $76.98    | —             | 78             | 22     | 8      | namecheap        |
-| webshop.sh      | available | $59.99    | —             | 76             | 22     | 8      | name.com         |
-| stadia.sh       | available | $59.99    | —             | 66             | 22     | 6      | name.com         |
-| brothers.sh     | available | $59.99    | —             | 60             | 22     | 8      | name.com         |
-| teachers.sh     | available | $59.99    | —             | 56             | 22     | 8      | name.com         |
-| origins.sh      | available | $59.99    | —             | 46             | 22     | 7      | name.com         |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| ike.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| sat.sh   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc           |
+| jolly.sh | premium   | $39.99    | $47.99        | medium         | low    | 5      | namesilo              |
+| mop.sh   | available | $59.99    | —             | high           | low    | 3      | name.com              |
+| game.sh  | resell    | —         | —             | high           | medium | 4      | 1API GmbH             |
+| won.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| mesh.sh  | resell    | —         | —             | high           | high   | 4      | Key-Systems GmbH      |
+| xix.sh   | available | $59.99    | $99           | high           | low    | 3      | name.com              |
+| pick.sh  | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.       |
+| yur.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| pu.sh    | resell    | —         | —             | high           | low    | 4      | 101domain GRS Limited |
+| flop.sh  | available | $39.99    | $47.99        | medium         | low    | 4      | namesilo              |
+| rise.sh  | resell    | —         | —             | medium         | medium | 4      | NameCheap, Inc.       |
+| foot.sh  | available | $59.99    | —             | medium         | low    | 4      | name.com              |
+| layer.sh | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.       |
+| gave.sh  | available | $39.99    | $47.99        | medium         | low    | 4      | namesilo              |
+| super.sh | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC      |
+| hang.sh  | available | $39.99    | $47.99        | high           | low    | 4      | namesilo              |
+| unity.sh | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.       |
+| jock.sh  | available | $39.99    | $47.99        | high           | low    | 4      | namesilo              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is defined by a single condition: the domains use the .sh extension. That creates a broad mix of one-word inventory, from short and direct terms like vary.sh and crowd.sh to longer dictionary words like protective.sh and characteristic.sh. When comparing these domains, focus first on the word itself: clarity, memorability, spelling ease, and whether the term feels commercially usable. Then weigh the ask against the quality of the word. With a median ask of 56.64 across 10,429 domains, the main challenge is not access to names but choosing words that are easier to remember, say, and defend as a brand.
+This selection covers one-word .sh domain names — short, single-word addresses under the Saint Helena country-code TLD. With 10,433 domains and a median asking price near $47, the list mixes everyday nouns, verbs, and playful combinations such as transparency.sh, letitbe.sh, and windowshop.sh. These names suit brand-first products and quick domain comparisons where clarity and price matter more than category-specific extensions.
 
-- Prefer clear words over long or awkward dictionary terms
-- Check whether the word is easy to say, spell, and recall
-- Use ask price to separate strong names from weak holds
-- Screen for trademark risk before treating a name as ownable
+- 10,433 one-word .sh domains in this set — updated daily
+- Median asking price near $47 across the list
+- Short, memorable names spanning many everyday themes
+- Mix of single nouns, verbs, and playful combos like DaffyDuck.sh
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SH One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
