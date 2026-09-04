@@ -153,7 +153,7 @@ f79ae86e-b976-4524-93c9-ece313b85303,aspirer.sh,available,34.98,76.98,low,low,7,
 12983fe1-639b-4fa1-af32-207ace8864b5,afferent.sh,available,34.98,76.98,low,low,8,namecheap,,
 8487d902-e701-4778-a605-db463fd2653f,diskbrake.sh,available,39.99,47.99,medium,low,10,namesilo,,
 502ada43-d3a5-4c14-9427-d709237161ee,glove.sh,available,59.99,,high,low,5,name.com,,
-bbca2109-83b9-4a29-baf9-1de0dba7632c,goup.sh,available,39.99,47.99,high,low,5,namesilo,,
+bbca2109-83b9-4a29-baf9-1de0dba7632c,goup.sh,available,34.98,76.98,medium,low,5,namecheap,,
 168a6642-68a6-42ad-a793-0eb051e2a3a1,recipient.sh,available,39.99,47.99,high,low,9,namesilo,,
 37bdeb05-bd65-4015-9ff5-e270b439df6c,aneyeforaneye.sh,available,39.99,47.99,medium,low,17,namesilo,,
 31c8455b-fcb3-40f3-b88a-68eec37c7a09,shoplift.sh,available,39.99,47.99,high,low,8,namesilo,,
@@ -772,7 +772,7 @@ ab33dfcc-f55c-4951-9afa-7f7426671562,absolutist.sh,available,34.98,76.98,low,low
 1ddc5f26-41de-426a-ad58-849d77c5e8d4,government.sh,available,,,high,low,10,,,
 76ffb60e-b967-4f33-bd8a-40e69d7b6ba4,oldagepensioner.sh,available,59.99,,medium,low,17,name.com,,
 5ead7c99-26c1-4c44-9f7b-f5f6d24502a7,agnate.sh,available,34.98,76.98,low,low,6,namecheap,,
-176fd31a-ca02-47e4-af46-837c4e8776f1,machine.sh,resell,,,high,low,7,Porkbun LLC,18/11/2018 00:23,18/11/2026 00:23
+176fd31a-ca02-47e4-af46-837c4e8776f1,machine.sh,resell,,,medium,low,7,Porkbun LLC,18/11/2018 00:23,18/11/2026 00:23
 d75fcc2e-9a01-4137-bac0-e17b408dd889,meddle.sh,available,39.99,47.99,medium,low,6,namesilo,,
 d856594f-2168-476f-897d-68cb1db007bd,underarrest.sh,available,39.99,47.99,medium,low,12,namesilo,,
 9fdbbd7c-0002-4359-b5de-5386d35e0c65,unity.sh,resell,,,high,low,5,"Spaceship, Inc.",01/12/2021 16:01,01/12/2026 16:01
@@ -865,7 +865,7 @@ a445c5b2-edc1-4304-b0f3-8d7e27d360d2,sausage.sh,available,39.99,47.99,high,low,7
 d1d21f31-9a81-4c05-bb7d-a3fee7c79a4d,pizzeria.sh,available,39.99,47.99,high,low,8,namesilo,,
 16bc9b08-f183-4648-8100-de2e9dcd9372,luxembourg.sh,available,,,medium,low,10,,,
 6cb9a062-22cb-4513-a33f-c87f181d66db,wobbly.sh,available,59.99,,medium,low,6,name.com,,
-9c2946dc-b18b-45f0-8430-01d9496cc9b4,newfound.sh,available,59.99,,low,low,9,name.com,,
+9c2946dc-b18b-45f0-8430-01d9496cc9b4,newfound.sh,available,34.98,76.98,low,low,9,namecheap,,
 0153fd6c-3fb3-4730-81bc-2a47b5ce11e5,surgeprotector.sh,available,39.99,47.99,high,low,15,namesilo,,
 e03e0c7b-4c35-4667-822c-cc1dd4c27145,jointly.sh,available,39.99,47.99,medium,low,7,namesilo,,
 d0eff674-49b1-4804-86a0-d9365810728d,whothehell.sh,available,39.99,47.99,low,low,12,namesilo,,
