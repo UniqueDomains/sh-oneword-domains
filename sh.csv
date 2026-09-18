@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-0b1128cf-2550-4559-b1e4-d805c8ba3696,travel.sh,resell,,,high,medium,6,"GoDaddy.com, LLC",13/07/2016 00:30,13/07/2027 00:30,
+0b1128cf-2550-4559-b1e4-d805c8ba3696,travel.sh,resell,,,high,medium,6,"GoDaddy.com, LLC",13/07/2016 00:30,13/07/2027 00:30,17/09/2026 09:53
 3bcd3d87-24aa-48fb-9abd-cc39111bc175,outsideof.sh,available,39.99,47.99,medium,low,10,namesilo,,,
 17e9c135-ee1e-4740-9609-6a670e774677,cleared.sh,available,59.99,99,high,low,7,name.com,,,
 b2873bb2-5a27-477b-8f60-3a328c4cb3a4,Ithinkso.sh,available,39.99,47.99,medium,low,10,namesilo,,,
@@ -492,7 +492,7 @@ da8b7bfd-6169-47fc-8e68-88ff661307f3,punch.sh,available,,,high,low,5,,,,
 2b4698b8-cc1d-461f-adc0-5c181c7fc973,playing.sh,available,59.99,99,high,low,7,name.com,,,
 05eadecb-c837-4145-b80d-682b4b32f2ba,bridges.sh,available,59.99,,high,low,7,name.com,,,
 11e45a51-6759-42cc-83ff-d69ad6c59ad8,antlered.sh,available,34.98,76.98,low,low,8,namecheap,,,05/08/2026 20:11
-afb60ef7-b04c-4073-b69e-bea87f8631e6,goin.sh,available,39.99,47.99,medium,low,5,namesilo,,,
+afb60ef7-b04c-4073-b69e-bea87f8631e6,goin.sh,available,39.99,47.99,low,low,5,namesilo,,,16/09/2026 23:43
 b6f234db-07f8-45f8-b098-ad4bca92b60b,propose.sh,available,,,high,low,7,,,,
 cc7c2acc-3816-4cba-ad9f-b863e79358cd,anybody.sh,available,59.99,,medium,low,7,name.com,,,
 5ef1789b-2ad8-4021-a975-36c61d5c7e4a,depress.sh,available,39.99,47.99,medium,low,7,namesilo,,,
@@ -954,7 +954,7 @@ ea6a2b56-e0bf-4618-bbb9-b9db97b64100,schoolweek.sh,available,39.99,47.99,low,low
 8e7521b0-1cb5-46ea-a16a-d417cd8c0a99,fictitious.sh,available,34.98,76.98,low,low,10,namecheap,,,07/08/2026 07:50
 9ce92df0-559c-426a-84cc-031d85fe37fb,eager.sh,available,59.99,99,high,low,5,name.com,,,
 7aa0455d-094c-4d09-bef4-5af3b7dff6de,manyisthetime.sh,available,59.99,,medium,low,16,name.com,,,
-23be17af-ae4a-4e5d-89eb-41e09718a1dc,moveon.sh,available,59.99,99,high,low,7,name.com,,,
+23be17af-ae4a-4e5d-89eb-41e09718a1dc,moveon.sh,available,34.98,76.98,low,low,7,namecheap,,,16/09/2026 16:07
 b203b580-d677-4c80-9954-3718affc70ff,thumping.sh,available,34.98,76.98,low,low,8,namecheap,,,08/08/2026 13:08
 20cb24ed-3857-4117-9d3f-7df8ff927fa3,taipei.sh,available,39.99,47.99,high,low,6,namesilo,,,
 17ed0ca5-7643-47cd-97d8-f657a855d18e,entranceexamination.sh,available,39.99,47.99,medium,low,20,namesilo,,,

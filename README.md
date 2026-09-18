@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sh one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,668 domains · **Median ask:** $39.44 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/sh`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| period.sh | available | $39.99    | $47.99        | high           | low    | 6      | namesilo              |
-| ike.sh    | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
-| sat.sh    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc           |
-| jolly.sh  | premium   | $39.99    | $47.99        | medium         | low    | 5      | namesilo              |
-| ilx.sh    | available | $34.98    | $76.98        | low            | low    | 3      | namecheap             |
-| game.sh   | resell    | —         | —             | high           | medium | 4      | 1API GmbH             |
-| ixc.sh    | available | $34.98    | $76.98        | low            | low    | 3      | namecheap             |
-| mesh.sh   | resell    | —         | —             | high           | high   | 4      | Key-Systems GmbH      |
-| mop.sh    | available | $59.99    | —             | high           | low    | 3      | name.com              |
-| pick.sh   | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.       |
-| won.sh    | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
-| pu.sh     | resell    | —         | —             | high           | low    | 4      | 101domain GRS Limited |
-| xix.sh    | available | $59.99    | $99           | high           | low    | 3      | name.com              |
-| rise.sh   | resell    | —         | —             | medium         | medium | 4      | NameCheap, Inc.       |
-| yur.sh    | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
-| layer.sh  | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.       |
-| aery.sh   | available | $34.98    | $76.98        | low            | low    | 4      | namecheap             |
-| super.sh  | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC      |
-| asat.sh   | available | $34.98    | $76.98        | low            | low    | 4      | namecheap             |
-| unity.sh  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.       |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| ike.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| sat.sh   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc           |
+| jolly.sh | premium   | $39.99    | $47.99        | medium         | low    | 5      | namesilo              |
+| ilx.sh   | available | $34.98    | $76.98        | low            | low    | 3      | namecheap             |
+| game.sh  | resell    | —         | —             | high           | medium | 4      | 1API GmbH             |
+| ixc.sh   | available | $34.98    | $76.98        | low            | low    | 3      | namecheap             |
+| mesh.sh  | resell    | —         | —             | high           | high   | 4      | Key-Systems GmbH      |
+| mop.sh   | available | $59.99    | —             | high           | low    | 3      | name.com              |
+| pick.sh  | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.       |
+| won.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| pu.sh    | resell    | —         | —             | high           | low    | 4      | 101domain GRS Limited |
+| xix.sh   | available | $59.99    | $99           | high           | low    | 3      | name.com              |
+| rise.sh  | resell    | —         | —             | medium         | medium | 4      | NameCheap, Inc.       |
+| yur.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| layer.sh | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.       |
+| aery.sh  | available | $34.98    | $76.98        | low            | low    | 4      | namecheap             |
+| super.sh | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC      |
+| asat.sh  | available | $34.98    | $76.98        | low            | low    | 4      | namecheap             |
+| unity.sh | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.       |
+| flop.sh  | available | $39.99    | $47.99        | medium         | low    | 4      | namesilo              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SH One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SH One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
