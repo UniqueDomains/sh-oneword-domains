@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sh one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,252 domains · **Median ask:** $38.40 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/sh`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| ike.sh    | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
-| decade.sh | resell    | $59.99    | $99           | medium         | low    | 6      | name.com              |
-| jolly.sh  | premium   | $39.99    | $47.99        | medium         | low    | 5      | namesilo              |
-| ilx.sh    | available | $34.98    | $76.98        | low            | low    | 3      | namecheap             |
-| sat.sh    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc           |
-| ixc.sh    | available | $34.98    | $76.98        | low            | low    | 3      | namecheap             |
-| game.sh   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc           |
-| mop.sh    | available | $59.99    | —             | high           | low    | 3      | name.com              |
-| mesh.sh   | resell    | —         | —             | high           | high   | 4      | Key-Systems GmbH      |
-| won.sh    | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
-| pick.sh   | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.       |
-| xix.sh    | available | $39.99    | $47.99        | medium         | low    | 3      | namesilo              |
-| pu.sh     | resell    | —         | —             | high           | low    | 4      | 101domain GRS Limited |
-| yur.sh    | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
-| rise.sh   | resell    | —         | —             | low            | low    | 4      | NameCheap, Inc.       |
-| aery.sh   | available | $34.98    | $76.98        | low            | low    | 4      | namecheap             |
-| layer.sh  | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.       |
-| asat.sh   | available | $34.98    | $76.98        | low            | low    | 4      | namecheap             |
-| super.sh  | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC      |
-| flop.sh   | available | $39.99    | $47.99        | medium         | low    | 4      | namesilo              |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| period.sh   | available | $39.99    | $47.99        | high           | low    | 6      | namesilo              |
+| pleasure.sh | available | $39.99    | $47.99        | high           | low    | 8      | namesilo              |
+| travel.sh   | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC      |
+| must.sh     | available | $39.99    | $47.99        | high           | low    | 4      | namesilo              |
+| cocktail.sh | available | $59.99    | —             | high           | low    | 8      | name.com              |
+| ike.sh      | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| sat.sh      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc           |
+| jolly.sh    | premium   | $39.99    | $47.99        | medium         | low    | 5      | namesilo              |
+| ilx.sh      | available | $34.98    | $76.98        | low            | low    | 3      | namecheap             |
+| core.sh     | resell    | —         | —             | medium         | medium | 4      | NameCheap, Inc.       |
+| ixc.sh      | available | $34.98    | $76.98        | low            | low    | 3      | namecheap             |
+| pu.sh       | resell    | —         | —             | high           | low    | 4      | 101domain GRS Limited |
+| mop.sh      | available | $59.99    | —             | high           | low    | 3      | name.com              |
+| layer.sh    | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.       |
+| upc.sh      | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| onion.sh    | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.       |
+| won.sh      | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| super.sh    | resell    | —         | —             | medium         | medium | 5      | GoDaddy.com, LLC      |
+| yur.sh      | available | $39.99    | $47.99        | high           | low    | 3      | namesilo              |
+| credit.sh   | resell    | —         | —             | medium         | low    | 6      | Spaceship, Inc.       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SH One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SH One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
