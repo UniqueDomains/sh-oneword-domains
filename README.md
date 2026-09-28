@@ -1,10 +1,10 @@
-# Available .SH One-Word Domains (18,902)
+# Available .SH One-Word Domains (19,260)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C902%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C260%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .sh one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,902 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,260 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,902 domains · **Median ask:** $37.74 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 19,260 domains · **Median ask:** $37.67 · **High-demand under $2,500:** 4
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/sh`
@@ -74,15 +74,15 @@ print(df.head())
 | deep.sh  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
 | pcs.sh   | available | $34.98    | $76.98        | high           | low    | 3      | namecheap        |
 | kiwi.sh  | resell    | —         | —             | high           | high   | 4      | Dynadot Inc      |
-| wed.sh   | available | $34.98    | $76.98        | high           | low    | 3      | namecheap        |
+| psa.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo         |
 | poll.sh  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| xcl.sh   | available | $34.98    | $76.98        | medium         | low    | 3      | namecheap        |
+| wed.sh   | available | $34.98    | $76.98        | high           | low    | 3      | namecheap        |
 | flame.sh | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.  |
-| xxi.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo         |
+| xcl.sh   | available | $34.98    | $76.98        | medium         | low    | 3      | namecheap        |
 | fluid.sh | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| yon.sh   | available | $34.98    | $76.98        | medium         | low    | 3      | namecheap        |
+| xxi.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo         |
 | focus.sh | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
-| ages.sh  | available | $39.99    | $47.99        | medium         | low    | 4      | namesilo         |
+| yon.sh   | available | $34.98    | $76.98        | medium         | low    | 3      | namecheap        |
 | green.sh | resell    | —         | —             | high           | medium | 5      | Edomains LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,902 live domains                        |
+| 1,000-row public sample | 19,260 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
