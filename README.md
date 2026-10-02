@@ -1,10 +1,10 @@
-# Available .SH One-Word Domains (23,925)
+# Available .SH One-Word Domains (25,192)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C925%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C192%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sh one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,925 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,192 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,925 domains · **Median ask:** $36.73 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 25,192 domains · **Median ask:** $36.56 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/sh`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | ask.sh   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
 | dsm.sh   | available | $31.05    | $46.58        | medium         | low    | 3      | spaceship        |
 | pre.sh   | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| hoe.sh   | available | $31.05    | $46.58        | high           | low    | 3      | spaceship        |
+| emg.sh   | available | $31.05    | $46.58        | high           | low    | 3      | spaceship        |
 | deep.sh  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC     |
-| icc.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo         |
+| hoe.sh   | available | $31.05    | $46.58        | high           | low    | 3      | spaceship        |
 | kiwi.sh  | resell    | —         | —             | high           | high   | 4      | Dynadot Inc      |
-| ldl.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo         |
+| icc.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo         |
 | flame.sh | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.  |
 | npa.sh   | available | $34.98    | $76.98        | high           | low    | 3      | namecheap        |
 | fluid.sh | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| pcs.sh   | available | $34.98    | $76.98        | high           | low    | 3      | namecheap        |
-| green.sh | resell    | —         | —             | high           | medium | 5      | Edomains LLC     |
 | psa.sh   | available | $39.99    | $47.99        | high           | low    | 3      | namesilo         |
-| guide.sh | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.  |
+| green.sh | resell    | —         | —             | high           | medium | 5      | Edomains LLC     |
 | sfc.sh   | available | $31.05    | $46.58        | high           | low    | 3      | spaceship        |
-| india.sh | resell    | —         | —             | high           | high   | 5      | Spaceship, Inc.  |
+| guide.sh | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.  |
+| ulm.sh   | available | $39.99    | $47.99        | medium         | low    | 3      | namesilo         |
+| shape.sh | resell    | —         | —             | high           | low    | 5      | —                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,925 live domains                        |
+| 1,000-row public sample | 25,192 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SH One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SH One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
