@@ -4,9 +4,9 @@
 
 1,000 real .sh one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [73,023 names on .sh](https://unique.domains/tld/sh); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [73,129 names on .sh](https://unique.domains/tld/sh); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-63,724 one-word .sh names are free to register today. Cheapest first year $31.05 at Spaceship, renewal $46.58 there. 63 .sh sales in the last 12 months, median $300.
+63,820 one-word .sh names are free to register today. Cheapest first year $31.05 at Spaceship, renewal $46.58 there. 63 .sh sales in the last 12 months, median $300.
 
 Live page: [unique.domains/tld/sh](https://unique.domains/tld/sh?utm_source=github&utm_medium=referral&utm_campaign=repo_sh_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 30,473 names in the live list today.
+- The files hold 1,000 rows of the 30,647 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
